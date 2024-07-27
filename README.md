@@ -30,6 +30,16 @@ We often use firebase and supabase directly on the client to get the data. Howev
 
 - [docs/](./docs/): Manifold's public documentation that lives at https://docs.manifold.markets.
 
+- [cdk/](./cdk/): AWS infrastructure defined via cloud development kit.
+
+## CDK
+
+### Setup
+`npm install -g cdk`
+
+### Deployment
+`cdk deploy`
+
 ## Contributing
 
 We're pretty new to open-source culture so please be patient and let us know how we can do better. Feel free to open issues, submit PRs, and chat about the process on [Discord][discord]. We would prefer [small PRs][small-prs] that we can effectively evaluate and review - check in with us first if you want to work on a big change.
