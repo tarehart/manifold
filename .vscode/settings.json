@@ -7,7 +7,7 @@
     "**/package-lock.json": true,
     "**/yarn.lock": true
   },
-  "window.autoDetectColorScheme": true,
+  "window.autoDetectColorScheme": false,
   "workbench.preferredLightColorTheme": "Default Light+",
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
